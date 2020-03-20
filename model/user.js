@@ -6,4 +6,4 @@ var user = {
     password : ""
 }
 
-exports.user;
+module.exports.user;
